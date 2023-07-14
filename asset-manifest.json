@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/app-travel.github.io/static/css/main.ddace01c.css",
-    "main.js": "/app-travel.github.io/static/js/main.59c0b480.js",
-    "static/media/videoTravel.mp4": "/app-travel.github.io/static/media/videoTravel.bb9ced1bb519783b651f.mp4",
-    "static/media/keywest.jpg": "/app-travel.github.io/static/media/keywest.1e30514942c6f50bea09.jpg",
-    "static/media/maldives2.jpg": "/app-travel.github.io/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
-    "static/media/borabora.jpg": "/app-travel.github.io/static/media/borabora.e6c4841f299365fdfa10.jpg",
-    "static/media/borabora2.jpg": "/app-travel.github.io/static/media/borabora2.726ded1de37915f83c71.jpg",
-    "static/media/maldives.jpg": "/app-travel.github.io/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
-    "static/media/maldives3.jpg": "/app-travel.github.io/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
-    "static/media/gold.png": "/app-travel.github.io/static/media/gold.42f7d8f40c346adfe3a7.png",
-    "index.html": "/app-travel.github.io/index.html",
-    "main.ddace01c.css.map": "/app-travel.github.io/static/css/main.ddace01c.css.map",
-    "main.59c0b480.js.map": "/app-travel.github.io/static/js/main.59c0b480.js.map"
+    "main.css": "/reactwebapp/static/css/main.ddace01c.css",
+    "main.js": "/reactwebapp/static/js/main.005da635.js",
+    "static/media/videoTravel.mp4": "/reactwebapp/static/media/videoTravel.bb9ced1bb519783b651f.mp4",
+    "static/media/keywest.jpg": "/reactwebapp/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/reactwebapp/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/reactwebapp/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/reactwebapp/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/reactwebapp/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/reactwebapp/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "static/media/gold.png": "/reactwebapp/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "index.html": "/reactwebapp/index.html",
+    "main.ddace01c.css.map": "/reactwebapp/static/css/main.ddace01c.css.map",
+    "main.005da635.js.map": "/reactwebapp/static/js/main.005da635.js.map"
   },
   "entrypoints": [
     "static/css/main.ddace01c.css",
-    "static/js/main.59c0b480.js"
+    "static/js/main.005da635.js"
   ]
 }
