@@ -8,17 +8,21 @@ import Selects from "./components/selects/Selects";
 import ImgCarousel from "./components/carousel/ImgCarousel";
 import Footer from "./components/footer/Footer";
 
+import { HashRouter, Routes, Route } from "react-router-dom";
+
 function App() {
   return (
-    <div>
-      <Navbar />
-      <Hero />
-      <Destinations />
-      <Search />
-      <Selects />
-      <ImgCarousel />
-      <Footer />
-    </div>
+    <HashRouter>
+      <Routes>
+        <Route path="/" element={<Navbar />}></Route>
+        <Route path="/" element={<Hero />}></Route>
+        <Route path="/" element={<Destinations />}></Route>
+        <Route path="/" element={<Search />}></Route>
+        <Route path="/" element={<Selects />}></Route>
+        <Route path="/" element={<ImgCarousel />}></Route>
+        <Route path="/" element={<Footer />}></Route>
+      </Routes>
+    </HashRouter>
   );
 }
 
